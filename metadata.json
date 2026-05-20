@@ -1,0 +1,6 @@
+{
+  "name": "Elder Health Monitor",
+  "description": "Android client for social workers. Real-time biometric data sync from Wear OS, offline Room caching, safety anomalies notifications, and home visit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
